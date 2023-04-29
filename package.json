@@ -13,42 +13,5 @@
   "license": "ISC",
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.74"
-  },
-  "directories": {
-    "doc": "docs"
-  },
-  "dependencies": {
-    "algoliasearch": "^4.14.3",
-    "csstype": "^2.6.21",
-    "ansi-sequence-parser": "^1.1.0",
-    "body-scroll-lock": "^4.0.0-beta.0",
-    "fsevents": "^2.3.2",
-    "estree-walker": "^2.0.2",
-    "esbuild": "^0.17.18",
-    "jsonc-parser": "^3.2.0",
-    "magic-string": "^0.25.9",
-    "mark.js": "^8.11.1",
-    "minisearch": "^6.0.1",
-    "picocolors": "^1.0.0",
-    "nanoid": "^3.3.6",
-    "postcss": "^8.4.23",
-    "preact": "^10.12.0",
-    "shiki": "^0.14.2",
-    "rollup": "^3.21.0",
-    "source-map": "^0.6.1",
-    "source-map-js": "^1.0.2",
-    "vscode-oniguruma": "^1.7.0",
-    "sourcemap-codec": "^1.4.8",
-    "vite": "^4.3.3",
-    "vscode-textmate": "^8.0.0",
-    "vue": "^3.2.47"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shuimu0579/unittest.git"
-  },
-  "bugs": {
-    "url": "https://github.com/shuimu0579/unittest/issues"
-  },
-  "homepage": "https://github.com/shuimu0579/unittest#readme"
+  }
 }
