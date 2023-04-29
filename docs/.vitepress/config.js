@@ -1,5 +1,5 @@
 export default {
-  title: "FrontEndTesting",
+  title: "unit-test",
   description: "front end testing",
   base: "/unittest/",
   themeConfig: {
