@@ -1,5 +1,5 @@
 {
-  "name": "front-end-testing",
+  "name": "unit-test",
   "version": "1.0.0",
   "description": "覆盖前端测试方向的所有内容，包含 - 单元测试 - 组件测试 - 端对端测试",
   "main": "index.js",
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuimu0579/blog.git"
+    "url": "git+https://github.com/shuimu0579/unit-test.git"
   },
   "bugs": {
-    "url": "https://github.com/shuimu0579/blog/issues"
+    "url": "https://github.com/shuimu0579/unit-test/issues"
   },
-  "homepage": "https://github.com/shuimu0579/blog#readme"
+  "homepage": "https://github.com/shuimu0579/unit-test#readme"
 }
