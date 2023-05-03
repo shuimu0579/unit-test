@@ -55,8 +55,8 @@ import CVideo from '../components/CVideo.vue'
   - 说业务代码不好写测试， 本质上是因为你的代码设计的太烂了， 把许多的模块都放在一个组件里了。
 
 ## 提高开发效率
-<CVideo src="//player.bilibili.com/player.html?aid=652198267&bvid=BV1me4y1c7nM&cid=1016712076&page=1"/>
+<!-- <CVideo src="//player.bilibili.com/player.html?aid=652198267&bvid=BV1me4y1c7nM&cid=1016712076&page=1"/> -->
 
 ## 对修改代码更加自信
 
-<CVideo src="//player.bilibili.com/player.html?aid=353146778&bvid=BV1DX4y1U7df&cid=1045644165&page=1"/>
+<!-- <CVideo src="//player.bilibili.com/player.html?aid=353146778&bvid=BV1DX4y1U7df&cid=1045644165&page=1"/> -->
