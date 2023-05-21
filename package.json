@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.74"
+    "vitepress": "^1.0.0-alpha.74",
+    "vitest": "^0.31.1"
   },
   "directories": {
     "doc": "docs"

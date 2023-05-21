@@ -18,7 +18,7 @@ beforeAll(() => {
 
   return () => {
     // afterAll
-    console.log("after all")
+    console.log("after all");
   };
 });
 
@@ -27,14 +27,14 @@ beforeEach(() => {
   console.log("before each");
   return () => {
     // afterEach
-    console.log("after each")
+    console.log("after each");
   };
 });
 
-test("first ", () => {
+test("first", () => {
   console.log("first");
 });
-test("second ", () => {
+test("second", () => {
   console.log("second");
 });
 
