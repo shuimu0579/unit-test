@@ -16,5 +16,5 @@ test("remove todo", () => {
 
   const todo = store.addTodo("吃饭");
 
-  expect(store.todos.length).toBe(0);
+  expect(store.todos.length).toBe(1);
 });

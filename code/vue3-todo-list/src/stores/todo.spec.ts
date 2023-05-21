@@ -13,7 +13,6 @@ test("add todo", () => {
 
   // 验证
   expect(todoStore.todos[0].title).toBe(title);
-
 });
 test("add todo with reverse", () => {
   // 准备数据
@@ -32,7 +31,7 @@ test("remove todo", () => {
   // 准备数据
   setActivePinia(createPinia());
   const todoStore = useTodoStore();
-  const todo = todoStore.addTodo("吃饭")  // round-trip
+  const todo = todoStore.addTodo("吃饭"); // round-trip
 
   // 调用
   todoStore.removeTodo(todo!.id);
